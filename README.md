@@ -59,3 +59,5 @@ plot "new_lon_lat.dat" using 2:3 w l
 ![alt tag](https://raw.githubusercontent.com/Bresiu/KalmanFilter/master/charts/new.png)
 
 [gnuplot]:http://www.gnuplot.info/
+
+See also:https://stackoverflow.com/questions/1134579/smooth-gps-data
